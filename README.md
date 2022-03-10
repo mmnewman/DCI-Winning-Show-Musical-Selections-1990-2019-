@@ -31,4 +31,4 @@ This is a dataset of musical pieces used in World Class Drum Corps International
 |Total Unknown Composition Dates|9|
 
 ## Suggested Citation
-Newman, M. (2022). DCI Winning Show Musical Selections (1990-2019). [Data file]. Retrieved from http://
+Newman, M. (2022). DCI Winning Show Musical Selections (1990-2019). [Data file]. Retrieved from https://github.com/mmnewman/DCI-Winning-Show-Musical-Selections-1990-2019-.git
