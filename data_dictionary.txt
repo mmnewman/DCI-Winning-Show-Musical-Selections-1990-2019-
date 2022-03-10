@@ -1,0 +1,37 @@
+DATA DICTIONARY for the DCI-Winning-Show-Musical-Selections (1990-2019)
+
+Element Name, Description, Sample Values, Data Type, Accepted Values
+-----------------------------------------------------------------------
+year, 		the year of the show in which a piece was performed, 1990, int, 1990-2019
+show, 		the name of the show in which a piece was performed, Bernstein Celebration, str, n/a
+piece,		the name of the piece, Overture to Candide, str,n/a
+piece_genre,	the genre of the piece,	Opera, str, Locally Controlled
+piece_year,		the year the piece was originally performed/released, 1957,	int,	XXXX
+composer,		the name of the composer who wrote the piece, Leonard Bernstein,	str,	n/a
+composer_country,	the original country from which the composer came, United States of America,	str,	Reconciled with wikidata
+gender,		the gender of the composer, Male, str, Male/female/non-binary
+tie,			a boolean value that notes if a show was a tie (True = tie, False = no tie), True/False, bool, True/False
+corps,		the name of the Drum Corps that played the piece, The Cadets Drum and Bugle Corps, str, Reconciled with wikidata
+corps_location,	the location of the Drum Corps offices, PA, str, XX (USPS State Codes)
+composer_birth,	the birth date of the composer of the piece, 1918-08-25T00:00:00Z, date, Reconciled with wikidata
+composer_death,	the death date (if applicable) of the composer of the piece, 1990-10-14T00:00:00Z, date, Reconciled with wikidata
+
+-------------------------
+
+PIECE_GENRE VOCABULARY
+
+jazz, 		music that originated in the black American culture in the early twentieth century, usually includes improvisation, extended harmony, and brass, woodwind, and percussion instruments
+orchestra, 		music that was originally written for the ensemble of symphony orchestra, examples include symphonies and symphonic poems
+movie,		music that was originally written for movie scores
+wind band,		music that was originally written for wind band or brass band ensembles
+pop,			popular music that can be found on record charts
+original music,	music written specifically for the show
+musical,		music that was originally part of a play in which singing, and dancing are important, often performed on Broadway
+ballet,		music that was originally written to accompany dance
+concerto,		music written for a solo instrument accompanied by a larger ensemble (generally an orchestra)
+small ensemble,	music written for a small group of instruments, often between 3-10
+solo,			music written for a single instrument
+traditional,	music that is performed and played in a common manner, such as folk songs
+opera,		music originally written for an opera, a form of theater where singing and dramatics are of the most important role
+tango,		music associated with a style of social dance named the same that originated in Argentina
+none,			unclassified
