@@ -1,0 +1,2 @@
+# DCI-Winning-Show-Musical-Selections-1990-2019-
+This is a dataset of musical pieces used in World Class Drum Corps International first place shows between 1990 and 2019. The dataset contains information on drum corps, pieces, composers, and final show scores. Because most datasets relating to drum corps musical selections do not include information on composers, this dataset could be important to understand larger implications of musical features and composer demographics on musical selections in the activity. 
