@@ -1,0 +1,155 @@
+Column,year,show,piece,piece_genre,piece_year,composer,composer_country,composer_birth,composer_death,gender,score,tie,corps,corps_location
+0,1990,A Bernstein Celebration,Overture to Candide,opera,1957.0,Leonard Bernstein,United States of America,1918-08-25T00:00:00Z,1990-10-14T00:00:00Z,male,97.7,False,The Cadets Drum and Bugle Corps,PA
+1,1990,A Bernstein Celebration,Mass,musical,1971.0,Leonard Bernstein,United States of America,1918-08-25T00:00:00Z,1990-10-14T00:00:00Z,male,97.7,False,The Cadets Drum and Bugle Corps,PA
+2,1990,A Bernstein Celebration,West Side Story,musical,1957.0,Leonard Bernstein,United States of America,1918-08-25T00:00:00Z,1990-10-14T00:00:00Z,male,97.7,False,The Cadets Drum and Bugle Corps,PA
+3,1990,A Bernstein Celebration,Fancy Free Ballet,ballet,1944.0,Leonard Bernstein,United States of America,1918-08-25T00:00:00Z,1990-10-14T00:00:00Z,male,97.7,False,The Cadets Drum and Bugle Corps,PA
+4,1991,Immaggini di Roma (Roman Images): The Music of Ottorino Respighi,Roman Festivals,orchestra,1928.0,Ottorino Respighi,Kingdom of Italy,1879-07-09T00:00:00Z,1936-04-18T00:00:00Z,male,97.0,False,Star of Indiana Drum and Bugle Corps,IN
+5,1991,Immaggini di Roma (Roman Images): The Music of Ottorino Respighi,Pines of Rome,orchestra,1924.0,Ottorino Respighi,Kingdom of Italy,1879-07-09T00:00:00Z,1936-04-18T00:00:00Z,male,97.0,False,Star of Indiana Drum and Bugle Corps,IN
+6,1992,Revolution and Triumph,Gavorkna Fanfare,wind band,1991.0,Jack Stamp,United States of America,1954-03-05T00:00:00Z,,male,97.5,False,The Cavaliers Drum and Bugle Corps,IL
+7,1992,Revolution and Triumph,Cornish Dances,orchestra,1966.0,Malcolm Arnold,United Kingdom,1921-10-21T00:00:00Z,2006-09-23T00:00:00Z,male,97.5,False,The Cavaliers Drum and Bugle Corps,IL
+8,1992,Revolution and Triumph,English Dances,orchestra,1951.0,Malcolm Arnold,United Kingdom,1921-10-21T00:00:00Z,2006-09-23T00:00:00Z,male,97.5,False,The Cavaliers Drum and Bugle Corps,IL
+9,1992,Revolution and Triumph,Peterloo Overture,orchestra,1967.0,Malcolm Arnold,United Kingdom,1921-10-21T00:00:00Z,2006-09-23T00:00:00Z,male,97.5,False,The Cavaliers Drum and Bugle Corps,IL
+10,1993,"In the Spring, At the TimeWhen Kings Go Off to War","In the Spring, When Kings Go Off to War",wind band,1991.0,David Holsinger,United States of America,1945-12-26T00:00:00Z,,male,97.4,False,The Cadets Drum and Bugle Corps,PA
+11,1993,"In the Spring, At the TimeWhen Kings Go Off to War",Ballet Sacra,wind band,1990.0,David Holsinger,United States of America,1945-12-26T00:00:00Z,,male,97.4,False,The Cadets Drum and Bugle Corps,PA
+12,1993,"In the Spring, At the TimeWhen Kings Go Off to War",On a Hymnsong of Philip Bliss,wind band,1989.0,David Holsinger,United States of America,1945-12-26T00:00:00Z,,male,97.4,False,The Cadets Drum and Bugle Corps,PA
+13,1994,My Spanish Heart,Spanish Fantasy,jazz,1976.0,Chick Corea,United States of America,1941-06-12T00:00:00Z,2021-02-09T00:00:00Z,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+14,1994,My Spanish Heart,Night Streets,jazz,1976.0,Chick Corea,United States of America,1941-06-12T00:00:00Z,2021-02-09T00:00:00Z,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+15,1994,My Spanish Heart,Day Danse,jazz,1976.0,Chick Corea,United States of America,1941-06-12T00:00:00Z,2021-02-09T00:00:00Z,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+16,1995,The Planets,The Planets,orchestra,1917.0,Gustav Holst,United Kingdom,1874-09-21T00:00:00Z,1934-05-25T00:00:00Z,male,98.3,False,The Cavaliers Drum and Bugle Corps,IL
+17,1996,Club Blue:A Gangster Chronicle,The Children's Hour of Dream,jazz,1990.0,Charles Mingus,United States of America,1922-04-22T00:00:00Z,1979-01-05T00:00:00Z,male,97.4,True,Blue Devils Drum and Bugle Corps,CA
+18,1996,Club Blue:A Gangster Chronicle,Desi,wind band,1991.0,Michael Daugherty,United States of America,1954-04-28T00:00:00Z,,male,97.4,True,Blue Devils Drum and Bugle Corps,CA
+19,1996,Club Blue:A Gangster Chronicle,Tess' Theme (from Dick Tracy),movie,1990.0,Danny Elfman,United States of America,1953-05-29T00:00:00Z,,male,97.4,True,Blue Devils Drum and Bugle Corps,CA
+20,1996,Club Blue:A Gangster Chronicle,Trouble (from Mission: Impossible),movie,1996.0,Danny Elfman,United States of America,1953-05-29T00:00:00Z,,male,97.4,True,Blue Devils Drum and Bugle Corps,CA
+21,1996,A Defiant Heart: The Music of Dmitri Shostakovich,Fourth Ballet Suite,orchestra,1953.0,Dmitri Shostakovich,Soviet Union,1906-09-25T00:00:00Z,1975-08-09T00:00:00Z,male,97.4,True,Phantom Regiment Drum and Bugle Corps,IL
+22,1996,A Defiant Heart: The Music of Dmitri Shostakovich,First Symphony,orchestra,1925.0,Dmitri Shostakovich,Soviet Union,1906-09-25T00:00:00Z,1975-08-09T00:00:00Z,male,97.4,True,Phantom Regiment Drum and Bugle Corps,IL
+23,1996,A Defiant Heart: The Music of Dmitri Shostakovich,Fifth Symphony,orchestra,1937.0,Dmitri Shostakovich,Soviet Union,1906-09-25T00:00:00Z,1975-08-09T00:00:00Z,male,97.4,True,Phantom Regiment Drum and Bugle Corps,IL
+24,1997,As Time Goes By . . .,Casablanca,movie,1942.0,Max Steiner,Austria-Hungary,1888-05-10T00:00:00Z,1971-12-28T00:00:00Z,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+25,1997,As Time Goes By . . .,One Night In Bangkok,pop,1984.0,Benny Andersson,Sweden,1946-12-16T00:00:00Z,,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+26,1997,As Time Goes By . . .,One Night In Bangkok,pop,1984.0,Björn Ulvaeus,Sweden,1945-04-25T00:00:00Z,,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+27,1997,As Time Goes By . . .,One Night In Bangkok,pop,1984.0,Tim Rice,United Kingdom,1944-11-10T00:00:00Z,,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+28,1997,As Time Goes By . . .,A Night in Tunisia,jazz,1958.0,Dizzy Gillespie,United States of America,1917-10-21T00:00:00Z,1993-01-06T00:00:00Z,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+29,1997,As Time Goes By . . .,A Night in Tunisia,jazz,1958.0,Frank Paparelli,United States of America,1917-12-25T00:00:00Z,1973-05-24T00:00:00Z,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+30,1997,As Time Goes By . . .,As Time Goes By,jazz,1931.0,Herman Hupfeld,United States of America,1894-02-01T00:00:00Z,1951-06-08T00:00:00Z,male,98.4,False,Blue Devils Drum and Bugle Corps,CA
+31,1998,Stonehenge,Stonehenge,wind band,2005.0,Jan Van der Roost,Belgium,1956-03-01T00:00:00Z,,male,98.4,False,The Cadets Drum and Bugle Corps,PA
+32,1998,Stonehenge,Canterbury Chorale,wind band,1991.0,Jan Van der Roost,Belgium,1956-03-01T00:00:00Z,,male,98.4,False,The Cadets Drum and Bugle Corps,PA
+33,1999,Rhythms...At the Edge of Time,Estancia Ballet,ballet,1943.0,Alberto Ginastera,Argentina,1916-04-11T00:00:00Z,1983-02-20T00:00:00Z,male,98.4,True,Blue Devils Drum and Bugle Corps,CA
+34,1999,Rhythms...At the Edge of Time,Powerhouse: Rhumba for Orchestra,orchestra,1993.0,Graeme Koehne,Australia,1956-08-03T00:00:00Z,,male,98.4,True,Blue Devils Drum and Bugle Corps,CA
+35,1999,Rhythms...At the Edge of Time,Adios Nonino,tango,1959.0,Astor Piazzolla,Argentina,1921-03-11T00:00:00Z,1992-07-04T00:00:00Z,male,98.4,True,Blue Devils Drum and Bugle Corps,CA
+36,1999,Rhythms...At the Edge of Time,Unchained Melody,orchestra,1991.0,Graeme Koehne,Australia,1956-08-03T00:00:00Z,,male,98.4,True,Blue Devils Drum and Bugle Corps,CA
+37,1999,Inventions for a New Millennium,The Canyon,orchestra,1988.0,Philip Glass,United States of America,1937-01-31T00:00:00Z,,male,98.4,True,Santa Clara Vanguard Drum and Bugle Corps,CA
+38,1999,Inventions for a New Millennium,Symphonies No. 2,orchestra,1947.0,Samuel Barber,United States of America,1910-03-09T00:00:00Z,1981-01-23T00:00:00Z,male,98.4,True,Santa Clara Vanguard Drum and Bugle Corps,CA
+39,1999,Inventions for a New Millennium,Symphony No. 1,orchestra,1943.0,Samuel Barber,United States of America,1910-03-09T00:00:00Z,1981-01-23T00:00:00Z,male,98.4,True,Santa Clara Vanguard Drum and Bugle Corps,CA
+40,1999,Inventions for a New Millennium,Blue Shades,wind band,1998.0,Frank Ticheli,United States of America,1958-01-21T00:00:00Z,,male,98.4,True,Santa Clara Vanguard Drum and Bugle Corps,CA
+41,2000,Niagara Falls,Niagara Falls,wind band,1997.0,Michael Daugherty,United States of America,1954-04-28T00:00:00Z,,male,97.65,True,The Cavaliers Drum and Bugle Corps,IL
+42,2000,Niagara Falls,Original music,original music,2000.0,Richard L. Saucedo,United States of America,,,male,97.65,True,The Cavaliers Drum and Bugle Corps,IL
+43,2000,We are the Future,Millennium Celebration,orchestra,1999.0,Gavin Greenaway,United Kingdom,1964-06-15T00:00:00Z,,male,97.65,True,The Cadets Drum and Bugle Corps,PA
+44,2001,Four Corners,Four Corners,original music,2001.0,Richard L. Saucedo,United States of America,,,male,98.35,False,The Cavaliers Drum and Bugle Corps,IL
+45,2002,Frameworks,Original Music,original music,2002.0,Richard L. Saucedo,United States of America,,,male,99.15,False,The Cavaliers Drum and Bugle Corps,IL
+46,2002,Frameworks,Original Music,original music,2002.0,Bret Kuhn,,,,,99.15,False,The Cavaliers Drum and Bugle Corps,IL
+47,2002,Frameworks,Original Music,original music,2002.0,Erik Johnson,,,,,99.15,False,The Cavaliers Drum and Bugle Corps,IL
+48,2003,Phenomenon of Cool,Concierto de Aranjuez,concerto,1993.0,Joaquín Rodrigo,Spain,1901-11-22T00:00:00Z,1999-07-06T00:00:00Z,male,98.8,False,Blue Devils Drum and Bugle Corps,CA
+49,2003,Phenomenon of Cool,Take Five,jazz,1959.0,Paul Desmond,United States of America,1924-11-25T00:00:00Z,1977-05-30T00:00:00Z,male,98.8,False,Blue Devils Drum and Bugle Corps,CA
+50,2003,Phenomenon of Cool,Blue Rondo A La Turk,jazz,1959.0,Dave Brubeck,United States of America,1920-12-06T00:00:00Z,2012-12-05T00:00:00Z,male,98.8,False,Blue Devils Drum and Bugle Corps,CA
+51,2003,Phenomenon of Cool,Unsquare Dance,jazz,1961.0,Dave Brubeck,United States of America,1920-12-06T00:00:00Z,2012-12-05T00:00:00Z,male,98.8,False,Blue Devils Drum and Bugle Corps,CA
+52,2003,Phenomenon of Cool,West Side Story,musical,1957.0,Leonard Bernstein,United States of America,1918-08-25T00:00:00Z,1990-10-14T00:00:00Z,male,98.8,False,Blue Devils Drum and Bugle Corps,CA
+53,2004,007,Selections from Goldeneye,movie,1995.0,David Arnold,United Kingdom,1962-01-23T00:00:00Z,,male,98.7,False,The Cavaliers Drum and Bugle Corps,IL
+54,2004,007,Hovercraft Chase & Welcome to Cuba (from Die Another Day),movie,2002.0,David Arnold,United Kingdom,1962-01-23T00:00:00Z,,male,98.7,False,The Cavaliers Drum and Bugle Corps,IL
+55,2004,007,Paris and Bond (from Tomorrow Never Dies),movie,1997.0,David Arnold,United Kingdom,1962-01-23T00:00:00Z,,male,98.7,False,The Cavaliers Drum and Bugle Corps,IL
+56,2005,The Zone: Dreamscapesin Four Parts with a Door,Twisted Nerve,movie,1968.0,Bernard Herrmann,United States of America,1911-06-29T00:00:00Z,1975-12-24T00:00:00Z,male,99.15,False,The Cadets Drum and Bugle Corps,PA
+57,2005,The Zone: Dreamscapesin Four Parts with a Door,Liquid,wind band,,Jay Bocook,United States of America,1953-01-01T00:00:00Z,,male,99.15,False,The Cadets Drum and Bugle Corps,PA
+58,2005,The Zone: Dreamscapesin Four Parts with a Door,Overture to a New World & Cvalda (from Dancer in the Dark),movie,2000.0,Björk,Iceland,1965-11-21T00:00:00Z,,female,99.15,False,The Cadets Drum and Bugle Corps,PA
+59,2005,The Zone: Dreamscapesin Four Parts with a Door,Vertigo,movie,1958.0,Bernard Herrmann,United States of America,1911-06-29T00:00:00Z,1975-12-24T00:00:00Z,male,99.15,False,The Cadets Drum and Bugle Corps,PA
+60,2005,The Zone: Dreamscapesin Four Parts with a Door,False Mirrors,wind band,,Jay Bocook,United States of America,1953-01-01T00:00:00Z,,male,99.15,False,The Cadets Drum and Bugle Corps,PA
+61,2006,Machine,"Genesis, Wired, Premonition & The Machine Age",original music,2006.0,Richard L. Saucedo,United States of America,,,male,97.2,False,The Cavaliers Drum and Bugle Corps,IL
+62,2006,Machine,"Genesis, Wired, Premonition & The Machine Age",original music,2006.0,James F Casella,,,,male,97.2,False,The Cavaliers Drum and Bugle Corps,IL
+63,2006,Machine,Church: Renewing Vows,jazz,1989.0,Wynton Marsalis,United States of America,1961-10-18T00:00:00Z,,male,97.2,False,The Cavaliers Drum and Bugle Corps,IL
+64,2007,Winged Victory,Bird and Bela in B Flat,jazz,1999.0,Don Sebesky,United States of America,1937-12-10T00:00:00Z,,male,98.0,False,Blue Devils Drum and Bugle Corps,CA
+65,2007,Winged Victory,Celebrare Celeberrime,orchestra,1993.0,Carl Vine,Australia,1954-10-08T00:00:00Z,,male,98.0,False,Blue Devils Drum and Bugle Corps,CA
+66,2007,Winged Victory,Rite of Spring,ballet,1913.0,Igor Stravinsky,France,1882-06-17T00:00:00Z,1971-04-06T00:00:00Z,male,98.0,False,Blue Devils Drum and Bugle Corps,CA
+67,2007,Winged Victory,Pegasus,jazz,1976.0,Hank Levy,United States of America,1927-09-27T00:00:00Z,2001-09-18T00:00:00Z,male,98.0,False,Blue Devils Drum and Bugle Corps,CA
+68,2007,Winged Victory,Firebird Suite,ballet,1910.0,Igor Stravinsky,France,1882-06-17T00:00:00Z,1971-04-06T00:00:00Z,male,98.0,False,Blue Devils Drum and Bugle Corps,CA
+69,2007,Winged Victory,The Kiss,wind band,2007.0,Michael Torke,United States of America,1961-09-22T00:00:00Z,,male,98.0,False,Blue Devils Drum and Bugle Corps,CA
+70,2008,Spartacus,Spartacus,ballet,1956.0,Aram Khachaturian,Russian Empire,1903-05-24T00:00:00Z,1978-05-01T00:00:00Z,male,98.125,False,Phantom Regiment Drum and Bugle Corps,IL
+71,2008,Spartacus,Ein Heldenleben,orchestra,1898.0,Richard Strauss,Germany,1866-06-11T00:00:00Z,1949-09-08T00:00:00Z,male,98.125,False,Phantom Regiment Drum and Bugle Corps,IL
+72,2008,Spartacus,Battlefield,orchestra,2006.0,René Dupéré,Canada,1946-01-01T00:00:00Z,,male,98.125,False,Phantom Regiment Drum and Bugle Corps,IL
+73,2008,Spartacus,Danses Fantastiques,orchestra,1993.0,Loris Tjeknavorian,Iran,1937-10-13T00:00:00Z,,male,98.125,False,Phantom Regiment Drum and Bugle Corps,IL
+74,2008,Spartacus,Piano Concerto No. 1,concerto,1961.0,Alberto Ginastera,Argentina,1916-04-11T00:00:00Z,1983-02-20T00:00:00Z,male,98.125,False,Phantom Regiment Drum and Bugle Corps,IL
+75,2009,1930,Get Happy,jazz,1930.0,Harold Arlen,United States of America,1905-02-15T00:00:00Z,1986-04-23T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+76,2009,1930,Get Happy,jazz,1930.0,Ted Koehler,United States of America,1894-07-14T00:00:00Z,1973-01-17T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+77,2009,1930,Happy Days Are Here Again,jazz,1929.0,Milton Ager,United States of America,1893-10-06T00:00:00Z,1979-05-06T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+78,2009,1930,Playing Love,movie,1998.0,Ennio Morricone,Italy,1928-11-10T00:00:00Z,2020-07-06T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+79,2009,1930,Piano Variations,solo,1930.0,Aaron Copland,United States of America,1900-11-14T00:00:00Z,1990-12-02T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+80,2009,1930,Rialto Ripples,musical,1930.0,George Gershwin,United States of America,1898-09-26T00:00:00Z,1937-07-11T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+81,2009,1930,I Got Rhythm (from Girl Crazy),musical,1930.0,George Gershwin,United States of America,1898-09-26T00:00:00Z,1937-07-11T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+82,2009,1930,Piano Concerto in F,concerto,1925.0,George Gershwin,United States of America,1898-09-26T00:00:00Z,1937-07-11T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+83,2009,1930,Caravan,jazz,1936.0,Juan Tizol,Puerto Rico,1900-01-22T00:00:00Z,1984-04-23T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+84,2009,1930,Rhapsody in Blue,orchestra,1924.0,George Gershwin,United States of America,1898-09-26T00:00:00Z,1937-07-11T00:00:00Z,male,99.05,False,Blue Devils Drum and Bugle Corps,CA
+85,2010,Through a Glass Darkly,City of Glass Suite,jazz,1951.0,Robert Graettinger,United States of America,1923-10-31T00:00:00Z,1957-03-12T00:00:00Z,male,98.9,False,Blue Devils Drum and Bugle Corps,CA
+86,2010,Through a Glass Darkly,Conflict & Mirage,jazz,1958.0,Pete Rugolo,Italy,1915-12-25T00:00:00Z,2011-10-16T00:00:00Z,male,98.9,False,Blue Devils Drum and Bugle Corps,CA
+87,2010,Through a Glass Darkly,Trajectories,jazz,1949.0,Franklyn Marks,United States of America,1911-05-31T00:00:00Z,1976-07-12T00:00:00Z,male,98.9,False,Blue Devils Drum and Bugle Corps,CA
+88,2010,Through a Glass Darkly,Incident In Jazz,jazz,1949.0,Robert Graettinger,United States of America,1923-10-31T00:00:00Z,1957-03-12T00:00:00Z,male,98.9,False,Blue Devils Drum and Bugle Corps,CA
+89,2010,Through a Glass Darkly,Laura,jazz,1945.0,David Raksin,United States of America,1912-08-04T00:00:00Z,2004-08-09T00:00:00Z,male,98.9,False,Blue Devils Drum and Bugle Corps,CA
+90,2010,Through a Glass Darkly,La Suerte De Los Tontos,jazz,1956.0,Johnny Richards,United States of America,1911-11-02T00:00:00Z,1968-10-07T00:00:00Z,male,98.9,False,Blue Devils Drum and Bugle Corps,CA
+91,2011,Between Angels and Demons,Angels in the Architecture,wind band,1958.0,Frank Ticheli,United States of America,1958-01-21T00:00:00Z,,male,98.35,False,The Cadets Drum and Bugle Corps,PA
+92,2011,Between Angels and Demons,160 BPM (from Angels and Demons),movie,2009.0,Hans Zimmer,Germany,1957-09-12T00:00:00Z,,male,98.35,False,The Cadets Drum and Bugle Corps,PA
+93,2011,Between Angels and Demons,Doxology,traditional,1551.0,Louis Bourgeois,France,1510-01-01T00:00:00Z,1560-01-01T00:00:00Z,male,98.35,False,The Cadets Drum and Bugle Corps,PA
+94,2011,Between Angels and Demons,Amazing Grace,traditional,,William Walker,United States of America,1809-05-06T00:00:00Z,1875-09-24T00:00:00Z,male,98.35,False,The Cadets Drum and Bugle Corps,PA
+95,2012,Cabaret Voltaire,Harmonielehre,orchestra,1985.0,John Adams,United States of America,1947-02-15T00:00:00Z,,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+96,2012,Cabaret Voltaire,Morrison Mania,movie,1995.0,James Horner,United States of America,1953-08-14T00:00:00Z,2015-06-22T00:00:00Z,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+97,2012,Cabaret Voltaire,The Children's Hour of Dream,jazz,1990.0,Charles Mingus,United States of America,1922-04-22T00:00:00Z,1979-01-05T00:00:00Z,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+98,2012,Cabaret Voltaire,Symphonies: V,orchestra,,André Souris,Belgium,1899-07-10T00:00:00Z,1970-02-12T00:00:00Z,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+99,2012,Cabaret Voltaire,Bird and Bela in B Flat,jazz,1999.0,Don Sebesky,United States of America,1937-12-10T00:00:00Z,,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+100,2012,Cabaret Voltaire,Gymnopedies,solo,1888.0,Erik Satie,France,1866-05-17T00:00:00Z,1925-07-01T00:00:00Z,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+101,2012,Cabaret Voltaire,Ballet Mecanique,movie,1924.0,George Antheil,United States of America,1900-07-08T00:00:00Z,1959-02-12T00:00:00Z,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+102,2012,Cabaret Voltaire,Peppy and George (from The Artist),movie,2011.0,Ludovic Bource,France,1970-08-19T00:00:00Z,,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+103,2012,Cabaret Voltaire,Dr. Bones,jazz,1990.0,Steve Perry,United States of America,1949-01-22T00:00:00Z,,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+104,2012,Cabaret Voltaire,New Arrival,movie,2005.0,Danny Elfman,United States of America,1953-05-29T00:00:00Z,,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+105,2012,Cabaret Voltaire,Tevot,orchestra,2007.0,Thomas Adès,United Kingdom,1971-03-01T00:00:00Z,,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+106,2012,Cabaret Voltaire,Rhapsody in Blue,orchestra,1924.0,George Gershwin,United States of America,1898-09-26T00:00:00Z,1937-07-11T00:00:00Z,male,98.7,False,Blue Devils Drum and Bugle Corps,CA
+107,2013,e=mc2,Einstein on the Beach,opera,1975.0,Philip Glass,United States of America,1937-01-31T00:00:00Z,,male,98.3,False,Carolina Crown Drum and Bugle Corps,SC
+108,2013,e=mc2,Also Sprach Zarathustra,orchestra,1896.0,Richard Strauss,Germany,1866-06-11T00:00:00Z,1949-09-08T00:00:00Z,male,98.3,False,Carolina Crown Drum and Bugle Corps,SC
+109,2013,e=mc2,Walking With Heroes,wind band,2007.0,Paul Lovatt-Cooper,United Kingdom,1976-03-21T00:00:00Z,,male,98.3,False,Carolina Crown Drum and Bugle Corps,SC
+110,2013,e=mc2,The Devil's Bridge,wind band,2003.0,Bertrand Moren,Switzerland,1976-06-26T00:00:00Z,,male,98.3,False,Carolina Crown Drum and Bugle Corps,SC
+111,2013,e=mc2,The Abyss,movie,1989.0,Alan Silvestri,United States of America,1950-03-26T00:00:00Z,,male,98.3,False,Carolina Crown Drum and Bugle Corps,SC
+112,2013,e=mc2,The Dark Side of the Moon,pop,1973.0,Paul Lovatt-Cooper,United Kingdom,1976-03-21T00:00:00Z,,male,98.3,False,Carolina Crown Drum and Bugle Corps,SC
+113,2014,Felliniesque,Old Toys (from Iris),orchestra,2011.0,Danny Elfman,United States of America,1953-05-29T00:00:00Z,,male,,False,Blue Devils Drum and Bugle Corps,CA
+114,2014,Felliniesque,La Strada Theme,movie,1954.0,Nino Rota,Kingdom of Italy,1911-12-03T00:00:00Z,1979-04-10T00:00:00Z,male,,False,Blue Devils Drum and Bugle Corps,CA
+115,2014,Felliniesque,The Clowns,movie,1970.0,Nino Rota,Kingdom of Italy,1911-12-03T00:00:00Z,1979-04-10T00:00:00Z,male,,False,Blue Devils Drum and Bugle Corps,CA
+116,2014,Felliniesque,Circo Compagnia,original music,2014.0,Gordon Goodwin,United States of America,1954-01-01T00:00:00Z,,male,,False,Blue Devils Drum and Bugle Corps,CA
+117,2014,Felliniesque,Be Italian (from Nine),musical,1982.0,Maury Yeston,United States of America,1945-10-23T00:00:00Z,,male,,False,Blue Devils Drum and Bugle Corps,CA
+118,2015,Ink,Dark Forest,original music,,Dave Glyde,,,,,97.65,False,Blue Devils Drum and Bugle Corps,CA
+119,2015,Ink,Sweeney Todd,musical,1979.0,Stephen Sondheim,United States of America,1930-03-22T00:00:00Z,2021-11-26T00:00:00Z,male,97.65,False,Blue Devils Drum and Bugle Corps,CA
+120,2015,Ink,The Mad Hatter's Tea Party,jazz,,Gordon Goodwin,United States of America,1954-01-01T00:00:00Z,,male,97.65,False,Blue Devils Drum and Bugle Corps,CA
+121,2015,Ink,I Like You,pop,,Got7,South Korea,1994-09-22T00:00:00Z,,male,97.65,False,Blue Devils Drum and Bugle Corps,CA
+122,2015,Ink,Into the Woods,musical,1986.0,Stephen Sondheim,United States of America,1930-03-22T00:00:00Z,2021-11-26T00:00:00Z,male,97.65,False,Blue Devils Drum and Bugle Corps,CA
+123,2016,Down Side Up,Jose/beFORe JOHN5,small ensamble,2000.0,Aurél Holló,Hungary,1966-07-17T00:00:00Z,,male,97.65,False,Bluecoats Drum and Bugle Corps,OH
+124,2016,Down Side Up,Heat of the Day,jazz,1997.0,Pat Metheny,United States of America,1954-08-12T00:00:00Z,,male,97.65,False,Bluecoats Drum and Bugle Corps,OH
+125,2016,Down Side Up,Heat of the Day,jazz,1997.0,Lyle Mays,United States of America,1953-11-27T00:00:00Z,2020-02-10T00:00:00Z,male,97.65,False,Bluecoats Drum and Bugle Corps,OH
+126,2016,Down Side Up,Raga Raja,small ensamble,2012.0,Project Trio,United States of America,,,,97.65,False,Bluecoats Drum and Bugle Corps,OH
+127,2016,Down Side Up,Udacrep Akubrad,concerto,2003.0,Avner Dorman,Israel,1975-04-14T00:00:00Z,,male,97.65,False,Bluecoats Drum and Bugle Corps,OH
+128,2016,Down Side Up,The Great Gig in the Sky,pop,1973.0,Richard Wright,United Kingdom,1943-07-28T00:00:00Z,2008-09-15T00:00:00Z,male,97.65,False,Bluecoats Drum and Bugle Corps,OH
+129,2016,Down Side Up,The Great Gig in the Sky,pop,1973.0,Clare Torry,United Kingdom,1947-11-29T00:00:00Z,,female,97.65,False,Bluecoats Drum and Bugle Corps,OH
+130,2016,Down Side Up,Down Side Up,original music,2016.0,Doug Thrower,,,,,97.65,False,Bluecoats Drum and Bugle Corps,OH
+131,2016,Down Side Up,Todo Tiende,pop,2006.0,Ojos de Brujo,Spain,,,,97.65,False,Bluecoats Drum and Bugle Corps,OH
+132,2017,Metamorph,"Birth of Eternity, Dreamscape & Facing Future",original music,2017.0,Dave Glyde,,,,,98.538,False,Blue Devils Drum and Bugle Corps,CA
+133,2017,Metamorph,The Triumph of Time,wind band,2015.0,Peter Graham,Czech Republic,1952-07-01T00:00:00Z,,male,98.538,False,Blue Devils Drum and Bugle Corps,CA
+134,2017,Metamorph,Flight of the Bumblebee,orchestra,1900.0,Nikolai Rimsky-Korsakov,Russian Empire,1844-03-06T00:00:00Z,1908-06-21T00:00:00Z,male,98.538,False,Blue Devils Drum and Bugle Corps,CA
+135,2017,Metamorph,Everything Must Change,jazz,1974.0,Benard Ighner,United States of America,1945-01-18T00:00:00Z,2017-08-14T00:00:00Z,male,98.538,False,Blue Devils Drum and Bugle Corps,CA
+136,2017,Metamorph,STAY. (from Interstellar),movie,2014.0,Hans Zimmer,Germany,1957-09-12T00:00:00Z,,male,98.538,False,Blue Devils Drum and Bugle Corps,CA
+137,2017,Metamorph,Who Knows One?,traditional,,Traditional,,,,,98.538,False,Blue Devils Drum and Bugle Corps,CA
+138,2017,Metamorph,Crystal,small ensamble,2014.0,Simon Dobson,United Kingdom,1981-01-01T00:00:00Z,,male,98.538,False,Blue Devils Drum and Bugle Corps,CA
+139,2018,Babylon,My Body is a Cage,pop,2010.0,Arcade Fire,Canada,,,,98.625,False,Santa Clara Vanguard Drum and Bugle Corps,CA
+140,2018,Babylon,Journey to the Center of the Earth,wind band,2005.0,Peter Graham,Czech Republic,1952-07-01T00:00:00Z,,male,98.625,False,Santa Clara Vanguard Drum and Bugle Corps,CA
+141,2018,Babylon,Metropolis 1927,movie,1927.0,Peter Graham,Czech Republic,1952-07-01T00:00:00Z,,male,98.625,False,Santa Clara Vanguard Drum and Bugle Corps,CA
+142,2018,Babylon,Apology,movie,2014.0,Zacarías M. de la Riva,Spain,1972-08-12T00:00:00Z,,male,98.625,False,Santa Clara Vanguard Drum and Bugle Corps,CA
+143,2018,Babylon,Club Sound,pop,2017.0,Gent and Jawns,United States of America,,,,98.625,False,Santa Clara Vanguard Drum and Bugle Corps,CA
+144,2019,Ghostlight,Discombobulate,movie,2009.0,Hans Zimmer,Germany,1957-09-12T00:00:00Z,,male,98.325,False,Blue Devils Drum and Bugle Corps,CA
+145,2019,Ghostlight,Don't Think,none,,Slamb,,,,,98.325,False,Blue Devils Drum and Bugle Corps,CA
+146,2019,Ghostlight,Rhythm Song,solo,1984.0,Paul Smadbeck,United States of America,1956-01-01T00:00:00Z,,male,98.325,False,Blue Devils Drum and Bugle Corps,CA
+147,2019,Ghostlight,Cycle Song,pop,2014.0,Imogen Heap,United Kingdom,1977-12-09T00:00:00Z,,female,98.325,False,Blue Devils Drum and Bugle Corps,CA
+148,2019,Ghostlight,A True Passion & Stroke of Genius,movie,2018.0,Lorne Balfe,United Kingdom,1976-02-23T00:00:00Z,,male,98.325,False,Blue Devils Drum and Bugle Corps,CA
+149,2019,Ghostlight,Symphony No. 3,orchestra,1947.0,Aram Khachaturian,Russian Empire,1903-05-24T00:00:00Z,1978-05-01T00:00:00Z,male,98.325,False,Blue Devils Drum and Bugle Corps,CA
+150,2019,Ghostlight,Ghostlight,original music,2019.0,Dave Glyde,,,,,98.325,False,Blue Devils Drum and Bugle Corps,CA
+151,2019,Ghostlight,Circus,pop,2008.0,Dr. Luke,United States of America,1973-09-26T00:00:00Z,,male,98.325,False,Blue Devils Drum and Bugle Corps,CA
+152,2019,Ghostlight,Circus,pop,2008.0,Claude Kelly,United States of America,1980-12-28T00:00:00Z,,male,98.325,False,Blue Devils Drum and Bugle Corps,CA
+153,2019,Ghostlight,Circus,pop,2008.0,Benny Blanco,United States of America,1988-03-08T00:00:00Z,,male,98.325,False,Blue Devils Drum and Bugle Corps,CA
