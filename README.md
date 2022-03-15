@@ -17,7 +17,7 @@ This is a dataset of musical pieces used in World Class Drum Corps International
 | ----------- | ----------- | 
 | Total Years| 29 |
 | Total Number of Shows| 33 
-| Total Number of Pieces| 140|
+| Total Number of Pieces| 139|
 | Mean Composition Year (rounded)| 1972| 
 | Total Number of Corps| 8| 
 | Total Number of Composers| 103| 
